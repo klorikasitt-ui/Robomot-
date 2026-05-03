@@ -1,7 +1,7 @@
 
-# 🤖 RoboMot OS v1.0
+# 🤖 RoboMot v1.0
 ## 📖 Proje Tanımı
-**RoboMot OS**, mobil donanım mimarileri (smartphone hardware) üzerinde çalışmak üzere tasarlanmış, grafik arayüz barındırmayan (**headless**) ve tamamen terminal tabanlı bir işletim sistemidir. Proje, Android tabanlı mobil cihazların yüksek performanslı işlemci ve bellek kaynaklarını, modern mobil işletim sistemlerinin (Android, HyperOS vb.) hantal yazılım katmanlarından arındırarak doğrudan kullanıcıya sunar.
+**RoboMot**, mobil donanım mimarileri (smartphone hardware) üzerinde çalışmak üzere tasarlanmış, grafik arayüz barındırmayan (**headless**) ve tamamen terminal tabanlı bir işletim sistemidir. Proje, Android tabanlı mobil cihazların yüksek performanslı işlemci ve bellek kaynaklarını, modern mobil işletim sistemlerinin (Android, HyperOS vb.) hantal yazılım katmanlarından arındırarak doğrudan kullanıcıya sunar.
 RoboMot, bir "mobil işletim sistemi" olmanın ötesinde, mobil donanımı saf bir Linux iş istasyonuna dönüştüren **arayüzsüz (CLI-only)** bir sistem çözümüdür.
 ## 🛠 Teknik Mimari
 RoboMot OS, Android'in kullanıcı katmanını (GUI, Java kütüphaneleri, servisler) tamamen baypas ederek **Pure Alpine Linux** ekosistemi üzerinde inşa edilmiştir.
